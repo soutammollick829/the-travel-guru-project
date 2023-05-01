@@ -1,0 +1,50 @@
+{
+    "destinations": [
+      {
+        "name": "Tokyo",
+        "country": "Japan",
+        "description": "Tokyo is the capital city of Japan and one of the world's most vibrant and exciting destinations. It's famous for its unique blend of traditional culture and cutting-edge technology, as well as its delicious cuisine and fascinating history.",
+        "image": "https://images.unsplash.com/photo-1591341582078-534f69a19c7b",
+        "attractions": [
+          {
+            "name": "Tokyo Tower",
+            "description": "Tokyo Tower is a communications and observation tower located in the Shiba-koen district of Minato, Tokyo. At 333 metres (1,093 ft), it is the second-tallest structure in Japan.",
+            "image": "https://images.unsplash.com/photo-1613246368365-5d5d289ff5a4"
+          },
+          {
+            "name": "Senso-ji Temple",
+            "description": "Senso-ji Temple is an ancient Buddhist temple located in Asakusa, Tokyo. It is Tokyo's oldest temple and one of its most significant historical landmarks.",
+            "image": "https://images.unsplash.com/photo-1562313584-8ad186dc8694"
+          },
+          {
+            "name": "Shibuya Crossing",
+            "description": "Shibuya Crossing is a famous pedestrian scramble located in Shibuya, Tokyo. It is one of the busiest intersections in the world and a popular spot for people-watching.",
+            "image": "https://images.unsplash.com/photo-1619939052631-cdc8c8c93d46"
+          }
+        ]
+      },
+      {
+        "name": "Paris",
+        "country": "France",
+        "description": "Paris is the capital city of France and one of the most romantic and beautiful cities in the world. It's famous for its stunning architecture, world-class museums, and delicious cuisine.",
+        "image": "https://images.unsplash.com/photo-1516726817501-5fcb26a590d6",
+        "attractions": [
+          {
+            "name": "Eiffel Tower",
+            "description": "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris. It is the most-visited paid monument in the world and an iconic symbol of Paris.",
+            "image": "https://images.unsplash.com/photo-1559126461-7ce690b8a40d"
+          },
+          {
+            "name": "Louvre Museum",
+            "description": "The Louvre Museum is the world's largest art museum and a historic monument located in the heart of Paris. It is home to some of the world's most famous works of art, including the Mona Lisa.",
+            "image": "https://images.unsplash.com/photo-1521390094034-8d57c7a411d4"
+          },
+          {
+            "name": "Notre-Dame Cathedral",
+            "description": "Notre-Dame Cathedral is a medieval Catholic cathedral located on the Île de la Cité in the heart of Paris. It is one of the most famous and beloved landmarks in the city.",
+            "image": "https://images.unsplash.com/photo-1591762034762-c126c9d9da10"
+          }
+        ]
+      }
+    ]
+}
